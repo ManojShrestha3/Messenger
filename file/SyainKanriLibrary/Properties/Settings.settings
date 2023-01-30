@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SyainKanriLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=10.32.97.1win;Initial Catalog=22jn0323;user=22jn0323;password=22jn0323
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

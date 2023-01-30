@@ -1,0 +1,2 @@
+Z:\file\SyainKanriLibrary\obj\Debug\SyainKanriLibrary.csprojAssemblyReference.cache
+Z:\file\SyainKanriLibrary\obj\Debug\SyainKanriLibrary.csproj.CoreCompileInputs.cache
